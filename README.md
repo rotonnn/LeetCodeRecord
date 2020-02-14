@@ -4,19 +4,19 @@
 ### 动态规划
 题目 | 难度 | 代码| tag
 -- |--|--|--
-[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| Hard| |双指针
-[寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)| Hard | | 二分
-[正则表达式匹配] | Hard | |
-[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)| Medium | | 双指针
-[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | Easy| |
-[整数翻转](https://leetcode-cn.com/problems/reverse-integer/)| Easy |1|
-[两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | Medium | |
-[字符串转整数](https://leetcode-cn.com/problems/string-to-integer-atoi/)|Medium | |
-[罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)| | 
-[三数之和](https://leetcode-cn.com/problems/3sum/)|Medium | | 双指针
-[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|Medium ||全排列
-[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|Medium | |快慢指针
-[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)|Easy ||栈
+[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| Hard| [python](Hard/无重复字符的最长子串.py)|双指针
+[寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)| Hard |[python](Hard/寻找两个有序数组的中位数.py) | 二分
+[正则表达式匹配] | Hard |[python](Hard/正则表达式匹配.py) |
+[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)| Medium |[python](Mediu/盛最多水的容器.py) | 双指针
+[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | Easy|[python](Easy/最长公共前缀.py) |
+[整数翻转](https://leetcode-cn.com/problems/reverse-integer/)| Easy |[python](Easy/整数反转.py)|
+[两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | Medium |[python](Mediu/两数相加.py) |
+[字符串转整数](https://leetcode-cn.com/problems/string-to-integer-atoi/)|Medium | [python](Medium/字符串转换整数.py)|
+[罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)|Medium| [python](easy/罗马数字转整数.py)| 
+[三数之和](https://leetcode-cn.com/problems/3sum/)| Medium| [python](medium/三数之和.py)| 双指针
+[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|Medium |[python](medium/电话号码的字母组合.py)|全排列
+[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|Medium |[python](Medium/删除链表的倒数第N个节点.py) |快慢指针
+[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)|Easy |[python](easy/有效的括号.py)|栈
 [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|Easy ||
 [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)|Medium | |动态规划
 [合并K个排序列表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|Hard||
@@ -25,7 +25,7 @@
 [两数相除](https://leetcode-cn.com/problems/divide-two-integers/)|Medium ||
 [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|Medium||
 [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  |Medium||	
-[有效的数独](https://leetcode-cn.com/problems/valid-sudoku/|Medium||
+[有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)|Medium||
 [外观数列](https://leetcode-cn.com/problems/count-and-say/)|Easy||
 [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)|Hard||
 [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)|Hard||
@@ -43,8 +43,8 @@
 [x 的平方根](https://leetcode-cn.com/problems/sqrtx/)|Easy
 [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|Easy
 [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)|Medium
-[颜色分类]（https://leetcode-cn.com/problems/sort-colors/）|Medium
-[最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)Hard
+[颜色分类](https://leetcode-cn.com/problems/sort-colors/)|Medium
+[最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)|Hard| | 
 [子集](https://leetcode-cn.com/problems/subsets/)|Medium||
 [单词搜索](https://leetcode-cn.com/problems/word-search/)|Medium||
 [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)|Hard
